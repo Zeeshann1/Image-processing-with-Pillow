@@ -1,15 +1,15 @@
 # Image Processing With Pillow
 ### Features
-- brightness Control
+- Brightness Control
 - Add Color
 - Contrast
 - Cropped Image
 - Draw Image
 - greyscale_image
-- image Resolution
-- image_flip
-- image_rot_18
-- image_rot_90
-- image_rot_180
-- image_thumbnail
-- sharpness
+- Image Resizing
+- Image Flip
+- Image Rotate
+- Image_rotate 90
+- image Rotate 180
+- image Thumbnail
+- Sharpness
